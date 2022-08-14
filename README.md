@@ -27,7 +27,7 @@ You can retrieve this project by running this command on your terminal:
  
 
      - cd directory_project
-     - git clone https://gitlab.com/Sy-Cheikh/
+     - git clone https://gitlab.com/Sy-Cheikh/ishiharatest
 
 ## Requirements
 
