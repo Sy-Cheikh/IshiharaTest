@@ -17,6 +17,7 @@ These tests, consisting of "pseudo-isochromatic" plates, are most frequently use
 The purpose of the test is to identify individuals who cannot distinguish a pattern in an image of approximately uniform luminance that appears only in the chrominances. PCA(Principal component analysis) was used to distinguish the pattern.
 
 
+You can consult this https://colormax.org/color-blind-test/#1618340565096-9c513bec-b6ac for more information on this test
 
 
 
